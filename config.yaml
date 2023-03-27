@@ -1,0 +1,8 @@
+openweathermap:
+  api_key: YOUR_OPENWEATHERMAP_API_KEY
+
+cache:
+  expiration: 10m
+
+server:
+  port: 8080
